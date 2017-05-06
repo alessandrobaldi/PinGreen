@@ -25,6 +25,7 @@ Built With
 Arduino - IDE for coding and electronic prototype device.
 MIT App Inventor - For APP development.
 Xively - Internet of Things platform communication.
+Firebase - Database.
 
 Authors
 Alessandro Murta Baldi - Original Idea, Programming
